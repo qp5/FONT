@@ -1,21 +1,19 @@
-FONT Sans font — Make your Type style cool.
-- also includes 2 outline fonts.
+FONT Sans font — Make your Type style cool.<br>
+- also includes 2 outline fonts.<br><br>
 
-Do you create fonts?
-Hoping others will join: 
- - https://github.com/qp5/FONT
+If you create fonts, please join this project. <br><br>
 
 
-John
-bowHip.org 
-adkinscc@gmail.com
 
 ____________________________________________________________
-Other projects:
-Recently launched Android mobile app:  https://github.com/qp5/bowHip
+Other projects:<br>
+Recently launched Android mobile app:  https://github.com/qp5/bowHip<br><br>
 
-Style your phone:
-https://codepen.io/qp5/full/WNGbLBy
+Style your phone:<br>
+https://codepen.io/qp5/full/WNGbLBy<br><br>
 
-Customize windows 10/11:
-https://codepen.io/qp5/project/full/ZmBrJo
+Customize windows 10/11:<br>
+https://codepen.io/qp5/project/full/ZmBrJo<br><br>
+John<br>
+bowHip.org <br>
+adkinscc@gmail.com
