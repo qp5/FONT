@@ -9,10 +9,10 @@ ____________________________________________________________
 <b>Other projects</b><br>
 Recently launched Android mobile app:  https://github.com/qp5/bowHip<br><br>
 
-Style your phone:<br>
+Style your phone<br>
 https://codepen.io/qp5/full/WNGbLBy<br><br>
 
-Customize windows 10/11:<br>
+Customize windows 10/11<br>
 https://codepen.io/qp5/project/full/ZmBrJo<br><br>
 John<br>
 bowHip.org <br>
