@@ -1,5 +1,5 @@
-FONT Sans — Make your Type style cool.
-- also includes 2 outline fonts.<br><br>
+FONT Sans — Cool Typeface style.
+- includes Main font plus 2 bonus fonts.<br><br>
 
 If you create fonts, please join this project. <br><br>
 
