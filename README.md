@@ -6,7 +6,7 @@ If you create fonts, hope you join this project! <br><br>
 
 
 ____________________________________________________________
-Other projects:<br>
+,b.Other projects:</b><br>
 Recently launched Android mobile app:  https://github.com/qp5/bowHip<br><br>
 
 Style your phone:<br>
