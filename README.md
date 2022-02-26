@@ -1,5 +1,5 @@
 # Sans FONT Typeface (3 fonts)
-FONT Sans — Cool Typeface.
+FONT — Sans Typeface.
 - includes typeset 'FONT' plus 2 bonus fonts.<br><br>
 
 If you create fonts, please join this light project! <br><br>
