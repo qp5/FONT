@@ -1,4 +1,8 @@
 # Sans FONT Typeface (3 fonts)
+Welcome! <br>
+This is my fresh take on Sans font typeset. <br>
+I've also recently launched bowHip.org mobile App.<br>
+
 FONT — Sans Typeface.
 Includes typeset 'FONT' plus 2 bonus fonts.<br>
   Fonts simular to this include:  Sego | Source Sans Pro | Open Sans<br><br>
