@@ -1,9 +1,10 @@
 # Sans FONT Typeface (3 fonts)
 FONT — Sans Typeface.
-- includes typeset 'FONT' plus 2 bonus fonts.<br><br>
+- includes typeset 'FONT' plus 2 bonus fonts.<br>
+- Fonts simular to this include: Sego, Source Sans Pro, Open Sans<br><br>
 
 If you create fonts, please join this light project! <br><br>
-Fonts simular to this include: Sego, Source Sans Pro, Open Sans
+
 
 ____________________________________________________________
 <b>Other projects</b><br>
