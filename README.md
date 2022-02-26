@@ -15,7 +15,7 @@ If you create fonts, please join this light project! <br><br>
     ￭  add to google fonts<br>
     <b>✓</b>  <a href="https://bowHip.org/support_sponsor_Font_project.html">support/donation</a><br><br>
     📫 Your <a href="mailto: support@bowhip.org">feedback</a> appriciated.    <br><br>
-    ☆ To add a Star this repository, select Button in top right corner.★<br>
+    ☆ To add a Star this repository, select Button in top right corner.<br>
     ଳ Follow this repository: select button in top right corner.   <br><br>
     
 
