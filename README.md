@@ -9,10 +9,14 @@ Sans Typeface — plus 2 bonus fonts.<br>
 
 If you create fonts, please join this light project! <br><br>
   <b>TODO LIST</b><br>
+  - sdfgh
     -  Improve italics<br>
     -  Help with license<br>
       Add to google fonts<br>
    ✔ <a href="https://bowHip.org/support_sponsor_Font_project.html">Support/donation</a><br><br>
+   - asdfg
+   - asdf
+   
 ____________________________________________________________
 <b>Other projects</b><br>
 Recently launched Android mobile app:  https://github.com/qp5/bowHip<br><br>
