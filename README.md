@@ -12,7 +12,7 @@ If you create fonts, please join this light project! <br><br>
     ￭  Improve italics<br>
     ￭  Help with license<br>
     ￭  Add to google fonts<br>
-    <b>✓</b>   <a href="https://bowHip.org/support_sponsor_Font_project.html">Support/donation</a><br><br>
+    <b>✓</b>  <a href="https://bowHip.org/support_sponsor_Font_project.html">Support/donation</a><br><br>
 
    
 ____________________________________________________________
