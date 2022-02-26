@@ -11,7 +11,7 @@ If you create fonts, please join this light project! <br><br>
 <b>TODO LIST</b>
 - Improve italics
 - Help with license
-- Add to google fonts
+- Add to google fonts<br>
 ✔ <a href="https://bowHip.org/support_sponsor_Font_project.html">Support/donation</a>
 ____________________________________________________________
 <b>Other projects</b><br>
