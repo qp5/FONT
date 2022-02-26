@@ -12,7 +12,7 @@ If you create fonts, please join this light project! <br><br>
     - Improve italics<br>
     - Help with license<br>
     - Add to google fonts<br>
-✔ <a href="https://bowHip.org/support_sponsor_Font_project.html">Support/donation</a><br><br>
+   ✔ <a href="https://bowHip.org/support_sponsor_Font_project.html">Support/donation</a><br><br>
 ____________________________________________________________
 <b>Other projects</b><br>
 Recently launched Android mobile app:  https://github.com/qp5/bowHip<br><br>
