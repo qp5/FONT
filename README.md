@@ -17,15 +17,10 @@ If you create fonts, please join this light project! <br><br>
     Your <a href="mailto: support@bowhip.org">feedback→</a> appriciated.
     
     <br><br>
- <span id="repo-stars-counter-unstar" aria-label="5086 users starred this repository" data-singular-suffix="user starred this repository click unstar button," data-plural-suffix="users starred this repository" data-pjax-replace="true" title="5,086" data-view-component="true" class="Counter js-social-count">5.1k</span>
-
-
-
+    To add a star this repository select button in top right corner.
+    To add a follow this repository select button in top right corner.
 
     <br><br>
-    
-    
-
    
 ____________________________________________________________
 <b>Other projects</b><br>
