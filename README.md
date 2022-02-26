@@ -8,11 +8,11 @@ Sans Typeface — plus 2 bonus fonts.<br>
   Fonts simular to this include:  Sego | Source Sans Pro | Open Sans<br><br>
 
 If you create fonts, please join this light project! <br><br>
-    <b>TODO LIST</b>
-    - Improve italics
-    - Help with license
+    <b>TODO LIST</b><br>
+    - Improve italics<br>
+    - Help with license<br><br>
     - Add to google fonts<br>
-✔ <a href="https://bowHip.org/support_sponsor_Font_project.html">Support/donation</a>
+✔ <a href="https://bowHip.org/support_sponsor_Font_project.html">Support/donation</a><br><br>
 ____________________________________________________________
 <b>Other projects</b><br>
 Recently launched Android mobile app:  https://github.com/qp5/bowHip<br><br>
