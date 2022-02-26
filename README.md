@@ -9,7 +9,7 @@ Sans Typeface — plus 2 bonus fonts.<br>
 
 If you create fonts, please join this light project! <br><br>
   <b>TODO LIST</b><br> 
-    ￭  join our <a href="mailto: support@bowhip.org">Font project➚→☍</a><br>
+    ￭  join our <a href="mailto: support@bowhip.org">Font project➚</a><br>
     ￭  join our <a href="mailto: support@bowhip.org">Font project→</a><br>
     ￭  join our <a href="mailto: support@bowhip.org">Font project☍</a><br>
     ￭  improve italics<br>
