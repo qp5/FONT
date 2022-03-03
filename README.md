@@ -10,7 +10,8 @@ Sans Typeface — plus 2 bonus fonts.<br>
 If you create fonts, please join this light project! <br><br>
   <b>TODO LIST</b><br> 
     ￭  join our <a href="mailto: support@bowhip.org">Font project→</a><br>
-    ￭  improve italics<br>
+    ￭  <a href="https://https://docs.google.com/spreadsheets/d/1QFqHY0WCPMAcdvhw5gkbb41fypRS65OzTCu16LnhkaE/edit?usp=sharing">begginer guide to font forge</a><br>
+    ￭  help with italics<br>
     ￭  help with license<br>
     ￭  add to google fonts<br>
     <b>✓</b>  <a href="https://bowHip.org/support_sponsor_Font_project.html">support/donation</a><br><br>
