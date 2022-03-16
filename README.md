@@ -16,8 +16,8 @@ If you create fonts, please join this light project! <br><br>
     ￭  add to google fonts<br>
     <br>
     📫 Send <a href="mailto: support@bowhip.org">feedback</a> <br><br>
-    <b>Star ☆</b> To add a Star this repository, select Button in top right corner.<br>
-    <b>Follow ଳ</b> Follow this repository: select button in top right corner.   <br><br>
+    <b>Star ☆</b> this repository: See Button in top right corner.<br>
+    <b>Follow ଳ</b> this repository: Select Watch button at top of screen above.   <br><br>
     
 ____________________________________________________________
 <b>Other projects</b><br>
