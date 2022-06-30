@@ -1,6 +1,6 @@
 # Sans FONT Typeface (3 fonts)
 <b>Welcome</b> <br>
-Here is a new casual modern <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans font🡇</a> typeset im working on.   Implemented w/ mobile App project: <a target="_blank" href="https://bowHip.org">bowHip.org</a><br>
+Here is a new casual modern <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans font 🡇</a> typeset im working on.   Implemented w/ mobile App project: <a target="_blank" href="https://bowHip.org">bowHip.org</a><br>
 
 <a href="https://github.com/qp5/FONT/raw/main/FONT.zip"><img style="height: 380px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/font_thumb_publisher_card.png" alt="mobile calling application"></a> 
 
