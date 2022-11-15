@@ -1,4 +1,4 @@
-# Sans FONT Typeface (3 fonts)
+# Sans FONT Typeface - commercial grade fonts
 <b>Welcome</b> <br>
 I'm new to GitHub. <br>
 Here is a new casual modern <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans font <small>🡇</small></a> typeset im working on.   Implemented w/ mobile App project: <a target="_blank" href="https://bowHip.org">bowHip.org</a><br>
