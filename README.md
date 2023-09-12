@@ -8,7 +8,7 @@ Here is a new casual modern <a href="https://github.com/qp5/FONT/raw/main/FONT.z
 1 Sans Typeface — includes 2 additional outline fonts.<br>
 It is simular to these Fonts:  Sego | Noto | Source Sans Pro | Open Sans<br><br>
 
-If you create fonts, please join this light project! <br><br>
+If you create fonts, your welcome to join project! <br><br>
   <b>TODO LIST</b><br> 
     ￭  join <a href="mailto: support@bowhip.org">Font project➚</a><br>
     ￭  <a target="_blank" href="https://docs.google.com/spreadsheets/d/1QFqHY0WCPMAcdvhw5gkbb41fypRS65OzTCu16LnhkaE/edit?usp=sharing">begginer guide to font forge</a><br>
