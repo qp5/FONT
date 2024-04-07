@@ -14,7 +14,7 @@ If you create fonts, your welcome to join my <a href="mailto: support@bowhip.org
     ￭  italics needs work<br>
     ￭  help with open source license<br>
     ￭  add to google fonts<br>
-    ￭  join <a href="mailto: support@bowhip.org">Font project➚</a><br>
+    ￭  join <a href="mailto: support@bowhip.org">Font project➚</a><br>
     <br>
     📫 Send <a href="mailto: support@bowhip.org">feedback</a> <br><br>
     <b>Star ☆</b> this repository: See Button in <b>top rght corner</b> to rate this Font.<br>
