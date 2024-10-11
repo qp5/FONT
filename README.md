@@ -21,14 +21,4 @@ If you create fonts, please join my <a href="mailto: support@bowhip.org">font pr
     <b>Follow ଳ</b> this repository: Select <b>Watch</b> button at top of screen above.   <br><br>
     
 ____________________________________________________________
-<b>Other projects</b><br>
-Recently launched Android mobile app:  https://github.com/qp5/bowHip<br><br>
-
-Style your phone<br>
-https://codepen.io/qp5/full/WNGbLBy<br><br>
-
-Customize windows 10/11<br>
-https://codepen.io/qp5/project/full/ZmBrJo<br><br>
-John<br>
-bowHip.org <br>
-adkinscc@gmail.com
+Other projects: <a href="https://github.com/qp5/bowHip">bowHip</a>  |  <a target="_blank" href="https://codepen.io/qp5/full/WNGbLBy">Style your Mobile device</a>  |   <a target="_blank" href="https://codepen.io/qp5/project/full/ZmBrJo">Style windows 10 /11 </a> | adkinscc@gmail.com
