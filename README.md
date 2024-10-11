@@ -10,10 +10,11 @@ It is simular to these Fonts:  Sego | Noto | Source Sans Pro | Open Sans
 
 If you create fonts, please join my <a href="mailto: support@bowhip.org">font project➚</a> <br> <br><br>
   <b>TODO LIST</b><br> 
-    ￭  <a target="_blank" href="https://docs.google.com/spreadsheets/d/1QFqHY0WCPMAcdvhw5gkbb41fypRS65OzTCu16LnhkaE/edit?usp=sharing">beginner guide to font forge</a><br>
-    ￭  italics needs work<br>
-    ￭  help with open source license<br>
     ￭  add to Google fonts: Fork the <a href="https://github.com/google/fonts">Google Fonts</a> GitHub repository <br>
+    ￭  improve italics<br>
+    ￭  <a target="_blank" href="https://docs.google.com/spreadsheets/d/1QFqHY0WCPMAcdvhw5gkbb41fypRS65OzTCu16LnhkaE/edit?usp=sharing">beginner guide to font forge</a><br>
+    ￭  help with open source license<br>
+
     <br>
     📫 Send <a href="mailto: support@bowhip.org">feedback</a> <br><br>
     <b>Star ☆</b> this repository: See Button in <b>top rght corner</b> to rate this Font.<br>
