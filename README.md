@@ -8,7 +8,7 @@ A casual modern <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans fon
 Sans Typeface — Includes 2 additional outliner fonts.<br>
 You'll like this font if you use:  Sego | Noto | Source Sans Pro | Open Sans<br><br>
 
-Please join this <a href="mailto: support@bowhip.org">font project➚</a> <br> <br><br>
+Please join this <a href="mailto: support@bowhip.org">font project➚</a> <br> <br>
   <b>TODO LIST</b><br> 
     ￭  add to Google fonts: Fork the <a href="https://github.com/google/fonts">Google Fonts</a> GitHub repository <br>
     ￭  improve italics<br>
