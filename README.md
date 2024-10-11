@@ -13,8 +13,7 @@ If you create fonts, please join my <a href="mailto: support@bowhip.org">font pr
     ￭  <a target="_blank" href="https://docs.google.com/spreadsheets/d/1QFqHY0WCPMAcdvhw5gkbb41fypRS65OzTCu16LnhkaE/edit?usp=sharing">beginner guide to font forge</a><br>
     ￭  italics needs work<br>
     ￭  help with open source license<br>
-    ￭  add to google fonts<br>
-
+    ￭  add to Google fonts: Fork the <a href="https://github.com/google/fonts">Google Fonts</a> GitHub repository <br>
     <br>
     📫 Send <a href="mailto: support@bowhip.org">feedback</a> <br><br>
     <b>Star ☆</b> this repository: See Button in <b>top rght corner</b> to rate this Font.<br>
