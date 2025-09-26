@@ -9,11 +9,12 @@ Sans Typeface — Includes 2 additional outliner fonts.<br>
 You'll like this font if you use:  Sego | Noto | Source Sans Pro | Open Sans<br><br>
 
 Please join this <a href="mailto: support@bowhip.org">font project➚</a> <br> <br>
-  <b>TODO LIST</b><br> 
-    ￭  add to Google fonts: Fork the <a href="https://github.com/google/fonts">Google Fonts</a> GitHub repository <br>
-    ￭  improve italics<br>
-    ￭  <a target="_blank" href="https://docs.google.com/spreadsheets/d/1QFqHY0WCPMAcdvhw5gkbb41fypRS65OzTCu16LnhkaE/edit?usp=sharing">beginner guide to font forge</a><br>
-    ￭  help with open source license<br>
+  <b>TODO LIST</b><br>
+    ✓  Woff2 (replaces .ttf) font use for internet & websites.
+    ▢  Improve italics<br>
+    ▢  <a target="_blank" href="https://chatgpt.com/">Free assistance guide to creating editing font</a><br>
+    ▢  help with open source license<br>
+    ▢  add to Google fonts: Fork the <a href="https://github.com/google/fonts">Google Fonts</a> GitHub repository <br>
 
     <br>
     📫 Send <a href="mailto: support@bowhip.org">feedback</a> <br><br>
