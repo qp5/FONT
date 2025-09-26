@@ -14,7 +14,7 @@ Please join this <a href="mailto: support@bowhip.org">font project➚</a> <br> <
     ▢  Improve italics<br>
     ▢  <a target="_blank" href="https://chatgpt.com/">Free assistance guide to creating editing font</a><br>
     ▢  help with open source license<br>
-    ▢  add to Google fonts: Fork the <a href="https://github.com/google/fonts">Google Fonts</a> GitHub repository <br>
+    ▢  add to Google fonts: Fork the <a href="https://github.com/google/fonts">Google Fonts</a> GitHub repository <br>
 
     <br>
     📫 Send <a href="mailto: support@bowhip.org">feedback</a> <br><br>
