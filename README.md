@@ -10,7 +10,7 @@ You'll like this font if you use:  Sego | Noto | Source Sans Pro | Open 
 
 Please join this <a href="mailto: support@bowhip.org">font project➚</a> <br> <br>
   <b>TODO LIST</b><br>
-    ✓  Woff2 (replaces .ttf) font use for internet & websites.<br>
+    ✓  Woff2 (replaces .ttf) font use for internet & websites.<br>
     ▢  Improve italics<br>
     ▢  <a target="_blank" href="https://chatgpt.com/">Free assistance guide to creating editing font</a><br>
     ▢  help with open source license<br>
