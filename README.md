@@ -1,4 +1,4 @@
-# Sans FONT Typeface fonts
+# Sans Typeface font
 <b>Welcome</b> <br>
 
 A casual modern <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans font <small>🡇</small></a> typeset.   Implemented w/ mobile App project: <a target="_blank" href="https://VissorGlasses.com">VissorGlasses.com</a> <a target="_blank" href="https://bowHip.org/foster">bowHip.org</a><br>
