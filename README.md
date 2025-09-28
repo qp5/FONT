@@ -8,7 +8,7 @@ A casual modern <a href="https://github.com/qp5/FONT/raw/main/FONT.zip">Sans fon
 Sans Typeface TTF & Woff2  — <br>
 <span style="color: gray;">ExtLght, Light, Regular, SemiBold, Condensed SemiBold, Bold, Black, Outliners</span><br>
 You'll like this font if you use:  Sego | Noto | Source Sans Pro | Open Sans<br><br>
-
+<span style="opacity: 0.5;">This text has 50% opacity.</span>
 Join this <a href="mailto: support@bowhip.org">font project➚</a> <br> <br>
   <b>TODO LIST</b><br>
     ✓  Woff2 (replaces .ttf) font use for internet & websites.<br>
